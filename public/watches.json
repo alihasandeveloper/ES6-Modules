@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "price": 1200,
+    "img": "https://www.shuvoetc.com.bd/public/uploads/all/jadcQfm6Kf4SUjV1ZMBX54tahOIqk7WpkjPlHDM8.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster Professional",
+    "price": 6500,
+    "img": "https://www.shuvoetc.com.bd/public/uploads/all/jadcQfm6Kf4SUjV1ZMBX54tahOIqk7WpkjPlHDM8.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera",
+    "price": 3500,
+    "img": "https://www.shuvoetc.com.bd/public/uploads/all/jadcQfm6Kf4SUjV1ZMBX54tahOIqk7WpkjPlHDM8.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Patek Philippe Nautilus",
+    "price": 30000,
+    "img": "https://www.shuvoetc.com.bd/public/uploads/all/jadcQfm6Kf4SUjV1ZMBX54tahOIqk7WpkjPlHDM8.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Casio G-Shock",
+    "price": 150,
+    "img": "https://www.shuvoetc.com.bd/public/uploads/all/jadcQfm6Kf4SUjV1ZMBX54tahOIqk7WpkjPlHDM8.jpg"
+  }
+]
